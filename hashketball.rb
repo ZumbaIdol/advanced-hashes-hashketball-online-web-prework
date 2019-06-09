@@ -145,6 +145,6 @@ def good_practices
   end
 end
 
-ruby hashketball.rb(location, team_data)
+good_practices(location, team_data)
 
 
