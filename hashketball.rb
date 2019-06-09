@@ -143,7 +143,7 @@ def good_practices
 #       end
 #     end
 #   end
-# end
+ end
 
 good_practices(location, team_data)
 
