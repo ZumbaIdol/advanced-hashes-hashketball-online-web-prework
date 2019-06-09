@@ -142,7 +142,7 @@ def good_practices
 #           binding.pry
 #       end
 #     end
-#   end
+   end
  end
 
 good_practices(location, team_data)
