@@ -145,6 +145,6 @@ def good_practices
   end
 end
 
-good_practices(location, team_data)
+good_practices
 
 
